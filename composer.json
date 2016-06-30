@@ -3,7 +3,7 @@
   "description": "Get the template array for content files.",
   "type": "library",
   "license": "MIT",
-  "homepage": "https://github.com/Clark-Nikdel-Powell/Module-WP-Get-Content-Template-Array",
+  "homepage": "https://github.com/Clark-Nikdel-Powell/WP-Get-Content-Template-Array",
   "authors": [
     {
       "name": "Josh Nederveld",
