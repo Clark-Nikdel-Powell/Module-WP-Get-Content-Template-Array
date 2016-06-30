@@ -1,0 +1,18 @@
+{
+  "name": "cnp/wp-get-content-template-array",
+  "description": "Get the template array for content files.",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://github.com/Clark-Nikdel-Powell/Module-WP-Get-Content-Template-Array",
+  "authors": [
+    {
+      "name": "Josh Nederveld",
+      "email": "joshn@clarknikdelpowell.com",
+      "homepage": "https://clarknikdelpowell.com/agency/people/josh",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.3"
+  }
+}
